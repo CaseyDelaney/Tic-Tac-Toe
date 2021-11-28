@@ -1,9 +1,9 @@
 # Tic-Tac-Toe
 
-### CMPE 252 Semester Project
-#### Prresented by Casey D., Alireza M. and Jay B.
+## CMPE 252 Semester Project
+### Presented by Casey D., Alireza M. and Jay B.
 
-ML implementation of Tic-Tac-Toe
+ML GUI implementation of Tic-Tac-Toe
 
 To run this code, follow these steps:
   1. Download repository
